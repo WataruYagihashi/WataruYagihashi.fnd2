@@ -181,7 +181,7 @@ h1 {
 #retry {
     width: 270px;
     height: 170px;
-    background-image: url("img/RETRY.png");
+    background-image: url("RETRY.png");
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 50px;
