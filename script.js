@@ -96,7 +96,7 @@ function compareHands(hand1, hand2) {
     }
     return 0;
 }
-// トランプ配列=>オブジェクト  スペード0, ダイヤ1, ハート2,　クローバー3,  supe2.png = "0:2"  supe1.png = "A:14"
+// トランプ配列=>オブジェクト  スペード0, ダイヤ1, ハート2,　クローバー3,  supe2.png = "0:2"  supe1.png = "A:14"　https://www.irasutoya.com/
 const torannpu = [
     ["img/supe2.png", "img/supe3.png", "img/supe4.png", "img/supe5.png", "img/supe6.png", "img/supe7.png", "img/supe8.png", "img/supe9.png", "img/supe10.png",
         "img/supe11.png", "img/supe12.png", "img/supe13.png", "img/supe1.png"],
