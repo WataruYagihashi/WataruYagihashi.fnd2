@@ -1,7 +1,7 @@
 /* まず、style.cssにこのルールを書き入れてください。 */
 
 body {
-    background-image: url(img/image.png);　/*確認済み*/
+    background-image: url(img/image.png); /*確認済み*/
     background-repeat: no-repeat; 
     background-position: top center; 
     background-size: cover; 
